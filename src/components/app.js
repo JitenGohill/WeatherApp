@@ -21,6 +21,7 @@ export default class App extends Component {
 			});
 		}
 	}
+	// hi
 
 	/*
 		A render method to display the required Component on screen (iPhone or iPad) : selected by checking component's isTablet state
